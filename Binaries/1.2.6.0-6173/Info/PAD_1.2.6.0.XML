@@ -120,12 +120,12 @@ PivotGrid provides two modes of editing data:
 			<Application_Order_URL>http://code.google.com/p/ranet-uilibrary-olap/wiki/HowToPurchase</Application_Order_URL>
 			<Application_Screenshot_URL>http://lh4.ggpht.com/_TsVqCN_9OXA/SvrN4BOxiVI/AAAAAAAAJvs/XeWAw2L1XQE/image101.png</Application_Screenshot_URL>
 			<Application_Icon_URL>http://galaktika.ru/bitrix/templates/en-galaktika_blue_index/images/logoGalaktika.png</Application_Icon_URL>
-			<Application_XML_File_URL />
+			<Application_XML_File_URL>http://ranet-uilibrary-olap.googlecode.com/hg/Binaries/1.2.6.0-6173/Info/PAD_1.2.6.0.XML</Application_XML_File_URL>
 		</Application_URLs>
 		<Download_URLs>
-			<Primary_Download_URL>http://code.google.com/p/ranet-uilibrary-olap/downloads/list</Primary_Download_URL>
+			<Primary_Download_URL>http://ranet-uilibrary-olap.googlecode.com/files/Ranet.UILibrary.Olap-1.2.6.0-6173.msi</Primary_Download_URL>
 			<Secondary_Download_URL>http://ranetuilibraryolap.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=38806</Secondary_Download_URL>
-			<Additional_Download_URL_1 />
+			<Additional_Download_URL_1>http://code.google.com/p/ranet-uilibrary-olap/downloads/list</Additional_Download_URL_1>
 			<Additional_Download_URL_2 />
 		</Download_URLs>
 	</Web_Info>
